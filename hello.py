@@ -1,3 +1,5 @@
-import time as t 
-print(t.timegm(tuple))
-print("Test Ramesh")
+import math
+
+content = dir(math)
+
+print(content)
