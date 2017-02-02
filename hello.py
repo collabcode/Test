@@ -1,3 +1,3 @@
 import time as t 
-print(t.time())
+print(t.timegm(tuple))
 print("Test Ramesh")
